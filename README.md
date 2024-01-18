@@ -19,7 +19,7 @@ The core goals are:
 - be a platform where learners and teachers can meet
 - no discrimination
 - inclusion
-- peaceful and empathetic-violent interaction of all participants
+- peaceful and empathetic interaction of all participants
 
 Physical location(s):
 
