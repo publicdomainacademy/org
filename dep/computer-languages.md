@@ -1,6 +1,6 @@
 # [CL] Computer Languages
 
-- Basic Training (CL.000)
+- Basic Training
   - Arithmetic
   - Algebra
   - RegEx
@@ -28,8 +28,8 @@
   - TinyScheme
 
 - Script
-  - Bash
-  - Batch
+  - Bash/shell
+  - Batch/Powershell
 
 - High-Level
   - Javascript
