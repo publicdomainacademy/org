@@ -33,6 +33,7 @@
 
 - High-Level
   - Javascript
+    - Typescript
   - PHP
   - Python
   - Java
