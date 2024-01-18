@@ -32,8 +32,16 @@ Banned Subjects:
 
 ## Departments
 
-[Natural Languages](dep/natural-languages.md)
+[NL] [Natural Languages](dep/natural-languages.md)
 
-[Computer Languages](dep/computer-languages.md)
+[CU] [Computer User](dep/computer-user.md)
+
+[CA] [Computer Admin](dep/computer-admin.md)
+
+[CL] [Computer Languages](dep/computer-languages.md)
+
+[AI] [AI Computing](dep/ai-computing.md)
+
+
 
 departments may be expanded upon necessity or request.
